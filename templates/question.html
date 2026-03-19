@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mini CBT - Current Question</title>
+    <title>Question</title>
 </head>
 <body style="font-family: Arial; padding: 50px;">
     <h1>Question</h1>
-    <p><strong>{{ question.text }}</strong></p>
+    <p><strong>❓ {{ question.text }}</strong></p>
     
     <form action="/submit" method="post">
         {% for key, text in question.choices.items() %}
