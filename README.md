@@ -34,5 +34,4 @@ The test runs in the browser, shows questions one by one, calculates score, and 
 - Flask (6 marks): 5 routes, forms for answers, templates with Jinja.
 - GitHub (5 marks): 20+ commits (add more small ones if needed, like fixes).
 
-## Screenshots
-(You can add screenshots here if you want extra polish – take photos of the browser and upload to GitHub.)
+## Screenshotss
